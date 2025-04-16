@@ -1,4 +1,4 @@
-import { SignInPage } from '@/features/auth/sign-in/sign-in';
+import { SignInPage } from '@/src/features/auth/sign-in/sign-in';
 
 function Page() {
     return (

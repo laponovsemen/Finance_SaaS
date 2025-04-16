@@ -1,4 +1,4 @@
-import DashboardBoard from '@/features/dashboard/dashboard-page';
+import DashboardBoard from '@/src/features/dashboard/dashboard-page';
 
 
 function Page() {

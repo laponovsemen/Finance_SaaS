@@ -1,4 +1,4 @@
-import { Header } from '@/features/dashboard/layout/header/header';
+import { Header } from '@/src/features/dashboard/layout/header/header';
 import type { ReactNode } from 'react';
 
 
